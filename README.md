@@ -97,6 +97,61 @@ Responsibilities include:
 * Managing servers, networks, databases, and cloud services.
 * Providing technical leadership and strategic IT planning.
 
+
+
+---
+
+## 🏢 Additional Professional Experience
+
+### 🛢️ Senior Software Development Manager – Aramco Petroleum Systems (Saudi Arabia)
+
+Worked on developing and managing enterprise-level software solutions for the petroleum sector.
+
+Responsibilities included:
+
+- Leading software development activities for large-scale business systems.
+- Designing scalable applications and backend architectures.
+- Managing development workflows and technical teams.
+- Implementing secure and reliable solutions following enterprise standards.
+
+---
+
+### 🏗️ Senior Software Developer – Saudi Ministry of Housing & Tahakom (Saudi Arabia)
+
+Worked as a senior developer on digital transformation projects supporting government services.
+
+Responsibilities included:
+
+- Developing high-performance web applications and enterprise platforms.
+- Building APIs and integrating complex business systems.
+- Collaborating with technical teams and government stakeholders.
+- Ensuring system reliability, security, and scalability.
+
+---
+
+### 👨‍💻 Team Leader – REXA Company (Saudi Arabia)
+
+Led software development teams delivering digital solutions for business clients.
+
+Responsibilities included:
+
+- Managing developers and coordinating software projects.
+- Reviewing code quality and technical architecture.
+- Planning development tasks and delivering solutions on time.
+- Supporting team members and improving development processes.
+
+---
+
+### 🌍 Team Leader – Work Without Borders (Lazeza Company)
+
+Managed remote development teams delivering technology solutions for Saudi government-related projects.
+
+Responsibilities included:
+
+- Leading web development teams using modern technologies.
+- Managing Laravel-based applications and APIs.
+- Coordinating between clients, developers, and technical teams.
+- Managing hosting environments, servers, and deployments.
 ---
 
 # 🌍 Featured Projects
