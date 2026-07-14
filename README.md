@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sabri Al Ijla</h1>
 
 <h3 align="center">
-IT Director | Full Stack Developer | Laravel & Vue.js Specialist | System Architect
+IT Director | University lecturer | Full Stack Developer | Laravel & Vue.js Specialist | System Architect
 </h3>
 
 <p align="center">
